@@ -1,0 +1,20 @@
+{
+  "name": "Dezor Source",
+  "identifier": "com.dezor.altstore.source",
+  "apps": [
+    {
+      "name": "Dezor",
+      "bundleIdentifier": "net.dezor.browser",
+      "developerName": "Sora",
+      "subtitle": "A lightweight browser",
+      "localizedDescription": "Dezor is a fast and secure web browser designed for privacy and performance.",
+      "version": "1.0.0",
+      "versionDate": "2024-11-21",
+      "size": 28940698,
+      "downloadURL": "https://drive.google.com/uc?export=download&id=11aKqFiHtx_tZq1hRpuQdnDasDC6bFxRE",
+      "iconURL": "https://drive.google.com/uc?export=download&id=1SETV0QYT9qthHsY5wIELFLvNB9Amy4f7",
+      "tintColor": "#007AFF",
+      "screenshotURLs": []
+    }
+  ]
+}
