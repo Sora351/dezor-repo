@@ -1,0 +1,18 @@
+{
+    "name": "Dezor Source",
+    "identifier": "com.dezor.altstore.source",
+    "apps": [
+        {
+            "name": "Dezor",
+            "bundleIdentifier": "net.dezor.browser",
+            "developerName": "Sora",
+            "subtitle": "",
+            "version": "1.0.0",
+            "size": 28940697,
+            "downloadURL": "https://drive.google.com/uc?export=download&id=11aKqFiHtx_tZq1hRpuQdnDasDC6bFxRE",
+            "iconURL": "https://username.github.io/dezor-altstore/dezor-icon.png",
+            "tintColor": "rgb(0, 122, 255)",
+            "screenshotURLs": []
+        }
+    ]
+}
